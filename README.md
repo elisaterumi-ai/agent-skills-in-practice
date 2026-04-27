@@ -29,15 +29,15 @@ A quick visual reference to understand how skills work — from structure to act
 - [Skills vs Other Customizations](#skills-vs-other-customizations)
 - [When to Use Skills](#when-to-use-skills)
 - [Example Use Cases](#example-use-cases)
-- [Creating Your First Skill](#🚀-creating-your-first-skill)
+- [Creating Your First Skill](#creating-your-first-skill)
 - [Best Practices](#best-practices)
 - [Common Mistakes](#common-mistakes)
 - [Advanced Concepts](#advanced-concepts)
 - [Why Skills Matter](#why-skills-matter)
 - [Resources](#resources)
 - [Final Thought](#final-thought)
-- [Contributing](#🤝-contributing)
-- [Connect with me](#🔗-connect-with-me)
+- [Contributing](#contributing)
+- [Connect with me](#connect-with-me)
 
 ---
 
