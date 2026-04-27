@@ -31,15 +31,15 @@ Uma referência visual rápida para entender como skills funcionam — da estrut
 - [Skills vs Outras Customizações](#skills-vs-outras-customizações)
 - [Quando Usar Skills](#quando-usar-skills)
 - [Exemplos de Uso](#exemplos-de-uso)
-- [Criando sua Primeira Skill](#criando-sua-primeira-skill)
+- [Criando sua Primeira Skill](#-criando-sua-primeira-skill)
 - [Boas Práticas](#boas-práticas)
 - [Erros Comuns](#erros-comuns)
 - [Conceitos Avançados](#conceitos-avançados)
 - [Por que Skills Importam](#por-que-skills-importam)
 - [Recursos](#recursos)
 - [Reflexão Final](#reflexão-final)
-- [Contribuindo](#contribuindo)
-- [Conecte-se comigo](#conecte-se-comigo)
+- [Contribuindo](#-contribuindo)
+- [Conecte-se comigo](#-conecte-se-comigo)
 
 ---
 
