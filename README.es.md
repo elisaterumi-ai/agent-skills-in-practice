@@ -29,7 +29,7 @@ Una referencia visual rápida para entender cómo funcionan las skills — desde
 - [Skills vs Otras Personalizaciones](#skills-vs-otras-personalizaciones)
 - [Cuándo Usar Skills](#cuándo-usar-skills)
 - [Ejemplos de Uso](#ejemplos-de-uso)
-- [Crear tu Primera Skill](#crear-tu-primera-skill)
+- [Crear tu Primera Skill](#-crear-tu-primera-skill)
 - [Buenas Prácticas](#buenas-prácticas)
 - [Errores Comunes](#errores-comunes)
 - [Conceptos Avanzados](#conceptos-avanzados)
