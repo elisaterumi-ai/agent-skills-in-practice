@@ -187,7 +187,7 @@ Define:
 
 ---
 
-## 🎯 Buenas Prácticas
+## Buenas Prácticas
 
 - Escribe **descripciones claras y específicas** (esto controla la activación)  
 - Mantén las instrucciones **estructuradas y explícitas**  
@@ -197,7 +197,7 @@ Define:
 
 ---
 
-## ⚠️ Errores Comunes
+## Errores Comunes
 
 - Tratar las skills como simples prompts  
 - Escribir descripciones vagas (la skill no se activará)  
@@ -206,7 +206,7 @@ Define:
 
 ---
 
-## 🧠 Conceptos Avanzados
+## Conceptos Avanzados
 
 ### Campos de Metadatos
 
@@ -225,7 +225,7 @@ Define:
 
 ---
 
-## 🚀 Por qué Importan las Skills
+## Por qué Importan las Skills
 
 Las skills transforman la forma en que construimos con IA:
 
@@ -241,7 +241,7 @@ Son un bloque fundamental para:
 
 ---
 
-## 📚 Recursos
+## Recursos
 
 Enlaces, documentación y repositorios seleccionados:
 
@@ -249,7 +249,7 @@ Enlaces, documentación y repositorios seleccionados:
 
 ---
 
-## 🧩 Reflexión Final
+## Reflexión Final
 
 Las skills cambian la forma de pensar:
 
