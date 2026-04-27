@@ -37,7 +37,7 @@ A quick visual reference to understand how skills work — from structure to act
 - [Resources](#resources)
 - [Final Thought](#final-thought)
 - [Contributing](#contributing)
-- [Connect with me](#connect-with-me)
+- [Connect with me](#-connect-with-me)
 
 ---
 
