@@ -36,8 +36,8 @@ Una referencia visual rápida para entender cómo funcionan las skills — desde
 - [Por qué Importan las Skills](#por-qué-importan-las-skills)
 - [Recursos](#recursos)
 - [Reflexión Final](#reflexión-final)
-- [Contribuir](#-contributing)
-- [Conecta conmigo](#-connect-with-me)
+- [Contribuir](#-contribuir)
+- [Conecta conmigo](#-conecta-conmigo)
 
 ---
 
