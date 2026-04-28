@@ -1,27 +1,17 @@
-# 🧠 AI Skills — Una Guía Práctica
-> De prompts a sistemas — aprende a construir skills reutilizables con IA.
-
 🌍 Language:
 [English](README.md) | [Português](README.pt-BR.md) | [Español](README.es.md)
 
-Las skills son uno de los bloques fundamentales de los sistemas modernos de IA.
+# AI Skills — Una Guía Práctica
 
-Permiten definir capacidades reutilizables y específicas para tareas que un sistema de IA puede aplicar automáticamente cuando es relevante — sin necesidad de repetir instrucciones cada vez.
+De prompts a sistemas, aprende a construir skills reutilizables con IA.
 
-⭐ Si este proyecto te ayudó, considera darle una estrella — ayuda a que otros lo descubran y apoya el trabajo.
+Las skills son uno de los bloques fundamentales de los sistemas modernos de IA. Permiten definir capacidades reutilizables y específicas para tareas que un sistema de IA puede aplicar automáticamente cuando es relevante, sin necesidad de repetir instrucciones cada vez.
 
-## Skills Cheat Sheet
-
-Una referencia visual rápida para entender cómo funcionan las skills — desde su estructura hasta su activación.
-
-<img src="https://raw.githubusercontent.com/elisaterumi-ai/agent-skills-in-practice/main/img/skills-guide-spa.png" width="600"/>
-
-> 💡 Úsalo como referencia rápida mientras construyes tus propias skills.
-
----
+⭐ Si este proyecto te ayudó, considera darle una estrella, ayuda a que otros lo descubran y apoya el trabajo.
 
 ## Tabla de Contenidos
 
+- [Guía rápida](#guía-rápida)
 - [Qué son las Skills](#qué-son-las-skills)
 - [Cómo Funcionan las Skills](#cómo-funcionan-las-skills)
 - [Estructura de una Skill](#estructura-de-una-skill)
@@ -39,7 +29,14 @@ Una referencia visual rápida para entender cómo funcionan las skills — desde
 - [Contribuir](#-contribuir)
 - [Conecta conmigo](#-conecta-conmigo)
 
----
+## Guía rápida
+
+Una referencia visual rápida para entender cómo funcionan las skills — desde su estructura hasta su activación.
+
+<img src="https://raw.githubusercontent.com/elisaterumi-ai/agent-skills-in-practice/main/img/skills-guide-spa.png" width="600"/>
+
+> 💡 Úsalo como referencia rápida mientras construyes tus propias skills.
+
 
 ## Qué son las Skills?
 
@@ -55,7 +52,6 @@ Una vez definida, el sistema puede descubrirla y usarla automáticamente.
 
 > En lugar de repetir prompts, defines el comportamiento una vez — y lo reutilizas.
 
----
 
 ## Cómo Funcionan las Skills
 
@@ -73,7 +69,6 @@ Esto significa:
 - **No saturan el contexto innecesariamente**  
 - Se activan **solo cuando son relevantes**  
 
----
 
 ## Estructura de una Skill
 
@@ -99,8 +94,6 @@ Sugerir mejoras
 Formatear la salida como feedback estructurado
 ```
 
----
-
 ## Dónde Viven las Skills
 
 Las skills pueden existir en diferentes niveles:
@@ -115,8 +108,6 @@ Las skills pueden existir en diferentes niveles:
 - Compartidas mediante control de versiones
 - Usadas como estándar del equipo
 
----
-
 ## Skills vs Otras Personalizaciones
 
 | Feature           | Comportamiento         | Uso                         |
@@ -126,8 +117,6 @@ Las skills pueden existir en diferentes niveles:
 | **Slash Commands**| Invocación manual      | Acciones explícitas          |
 
 👉 Las skills son **automáticas y contextuales**
-
----
 
 ## Cuándo Usar Skills
 
@@ -141,8 +130,6 @@ Usa una skill cuando:
 **Regla general:**
 > Si explicas lo mismo más de una vez, debería convertirse en una skill.
 
----
-
 ## Ejemplos de Uso
 
 - Revisión de código  
@@ -155,8 +142,6 @@ Usa una skill cuando:
 👉 Explora skills listas para usar: [examples](examples)
 
 > Algunos ejemplos están inspirados en repositorios open-source existentes.
-
----
 
 ## 🚀 Crear tu Primera Skill
 
@@ -185,8 +170,6 @@ Define:
 - Reglas  
 - Formato de salida  
 
----
-
 ## Buenas Prácticas
 
 - Escribe **descripciones claras y específicas** (esto controla la activación)  
@@ -195,16 +178,12 @@ Define:
 - Evita skills demasiado genéricas  
 - Mantén `SKILL.md` conciso (usa referencias si es necesario)  
 
----
-
 ## Errores Comunes
 
 - Tratar las skills como simples prompts  
 - Escribir descripciones vagas (la skill no se activará)  
 - Sobrecargar una skill con múltiples responsabilidades  
 - No definir la estructura de la salida  
-
----
 
 ## Conceptos Avanzados
 
@@ -223,8 +202,6 @@ Define:
   - `scripts/`  
   - `assets/`  
 
----
-
 ## Por qué Importan las Skills
 
 Las skills transforman la forma en que construimos con IA:
@@ -239,15 +216,11 @@ Son un bloque fundamental para:
 - Pipelines de automatización  
 - Sistemas escalables  
 
----
-
 ## Recursos
 
 Enlaces, documentación y repositorios seleccionados:
 
 👉 [Explorar recursos](docs/resources.md)
-
----
 
 ## Reflexión Final
 
@@ -258,8 +231,6 @@ Las skills cambian la forma de pensar:
 A:
 
 > “¿Qué capacidad debería tener este sistema?”
-
----
 
 ## 🤝 Contribuir
 
@@ -273,8 +244,6 @@ Puedes ayudar:
 
 No dudes en abrir un issue o enviar un pull request 🚀
 
----
-
 ## 🔗 Conecta conmigo
 
 Comparto insights prácticos sobre IA, agentes y aplicaciones en el mundo real:
@@ -283,3 +252,13 @@ Comparto insights prácticos sobre IA, agentes y aplicaciones en el mundo real:
 - LinkedIn (Página): https://www.linkedin.com/company/exploring-artificial-intelligence  
 - Newsletter: https://exploringartificialintelligence.substack.com/  
 - Medium: https://medium.com/@elisa-terumi
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=elisaterumi-ai%2Fagent-skills-in-practice&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=elisaterumi-ai/agent-skills-in-practice&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=elisaterumi-ai/agent-skills-in-practice&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=elisaterumi-ai/agent-skills-in-practice&type=date&legend=top-left" />
+ </picture>
+</a>
