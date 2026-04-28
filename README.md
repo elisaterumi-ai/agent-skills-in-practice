@@ -1,27 +1,17 @@
-# 🧠 AI Skills — A Practical Guide
-> From prompts to systems — learn how to build reusable AI skills.
-
 🌍 Language:
 [English](README.md) | [Português](README.pt-BR.md) | [Español](README.es.md)
 
-Skills are one of the core building blocks of modern AI systems.
+# AI Skills — A Practical Guide
+From prompts to systems — learn how to build reusable AI skills.
 
+Skills are one of the core building blocks of modern AI systems. 
 They allow you to define reusable, task-specific capabilities that an AI system can automatically apply when relevant — without repeating instructions every time.
 
 ⭐ If this project helped you, please consider giving it a star — it helps others discover it and supports the work!
 
-## Skills Cheat Sheet
-
-A quick visual reference to understand how skills work — from structure to activation.
-
-<img src="https://raw.githubusercontent.com/elisaterumi-ai/agent-skills-in-practice/main/img/skills-guide-en.png" width="600"/>
-
-> 💡 Use this as a quick reference while building your own skills.
-
----
-
 ## Table of Contents
 
+- [Skills Quick Guide](#skills-quick-guide)
 - [What are Skills](#what-are-skills)
 - [How Skills Work](#how-skills-work)
 - [Skill Structure](#skill-structure)
@@ -39,7 +29,14 @@ A quick visual reference to understand how skills work — from structure to act
 - [Contributing](#-contributing)
 - [Connect with me](#-connect-with-me)
 
----
+## Skills Quick Guide
+
+A quick visual reference to understand how skills work — from structure to activation.
+
+<img src="https://raw.githubusercontent.com/elisaterumi-ai/agent-skills-in-practice/main/img/skills-guide-en.png" width="600"/>
+
+> 💡 Use this as a quick reference while building your own skills.
+
 
 ## What are Skills?
 
@@ -54,8 +51,6 @@ In Claude Code, a skill is:
 Once defined, the system can discover and use the skill automatically.
 
 > Instead of repeating prompts, you encode behavior once — and reuse it.
-
----
 
 ## How Skills Work
 
@@ -73,7 +68,6 @@ This means:
 - They do **not clutter context unnecessarily**
 - They activate **only when relevant**
 
----
 
 ## Skill Structure
 
@@ -90,7 +84,7 @@ description: Reviews pull requests for code quality. Use when reviewing PRs or c
 
 Below the frontmatter, you define the instructions:
 
-```
+```yaml
 When reviewing a PR:
 
 1. Analyze code changes
@@ -98,8 +92,6 @@ When reviewing a PR:
 3. Suggest improvements
 4. Format output as structured feedback
 ```
-
----
 
 ## Where Skills Live
 
@@ -115,8 +107,6 @@ Skills can be scoped at different levels:
 - Shared via version control
 - Used for team standards
 
----
-
 ## Skills vs Other Customizations
 
 | Feature           | Behavior                | Use Case                |
@@ -126,8 +116,6 @@ Skills can be scoped at different levels:
 | **Slash Commands**| Manual invocation      | Explicit actions        |
 
 👉 Skills are **automatic and contextual**
-
----
 
 ## When to Use Skills
 
@@ -140,8 +128,6 @@ Use a skill when:
 
 **Rule of thumb:**
 > If you explain the same thing more than once, it should be a skill.
-
----
 
 ## Example Use Cases
 
@@ -156,7 +142,6 @@ Use a skill when:
 
 > Some examples are inspired by existing open-source skill repositories.
 
----
 
 ## 🚀 Creating Your First Skill
 
@@ -193,8 +178,6 @@ Define:
 - Avoid overly generic skills
 - Keep `SKILL.md` concise (use references if needed)
 
----
-
 ## Common Mistakes
 
 - Treating skills as simple prompts  
@@ -202,7 +185,6 @@ Define:
 - Overloading a single skill with multiple responsibilities  
 - Not defining output structure  
 
----
 
 ## Advanced Concepts
 
@@ -221,8 +203,6 @@ Define:
   - `scripts/`
   - `assets/`
 
----
-
 ## Why Skills Matter
 
 Skills transform how we build with AI:
@@ -237,15 +217,13 @@ They are a key building block for:
 - Automation pipelines  
 - Scalable AI systems  
 
----
+
 
 ## Resources
 
 Curated links, documentation, and example repositories:
 
 👉 [Explore resources](docs/resources.md)
-
----
 
 ## Final Thought
 
@@ -256,8 +234,6 @@ Skills shift the mindset from:
 To:
 
 > “What capability should this system have?”
-
----
 
 ## 🤝 Contributing
 
@@ -271,8 +247,6 @@ Ways to contribute:
 
 Feel free to open an issue or submit a pull request 🚀
 
----
-
 ## 🔗 Connect with me
 
 I share practical insights about AI, agents, and real-world applications:
@@ -281,3 +255,13 @@ I share practical insights about AI, agents, and real-world applications:
 - LinkedIn (Page): https://www.linkedin.com/company/exploring-artificial-intelligence  
 - Newsletter: https://exploringartificialintelligence.substack.com/  
 - Medium: https://medium.com/@elisa-terumi
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=elisaterumi-ai%2Fagent-skills-in-practice&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=elisaterumi-ai/agent-skills-in-practice&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=elisaterumi-ai/agent-skills-in-practice&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=elisaterumi-ai/agent-skills-in-practice&type=date&legend=top-left" />
+ </picture>
+</a>
