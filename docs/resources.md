@@ -16,7 +16,8 @@ A curated collection of documentation, guides, and repositories about AI skills 
 - [Anthropic Skill Examples](https://github.com/anthropics/skills/tree/main/skills)  
 - [Addy Osmani — Agent Skills](https://github.com/addyosmani/agent-skills)  
 - [Social Media Skills](https://github.com/charlie947/social-media-skills)  
-- [Awesome Claude Skills (Full Listing)](https://chat2anyllm.github.io/awesome-claude-skills/FULL-SKILLS.html#complete-skills-listing)  
+- [Awesome Claude Skills (Full Listing)](https://chat2anyllm.github.io/awesome-claude-skills/FULL-SKILLS.html#complete-skills-listing)
+- [Skills.sh](https://skills.sh/)  
 
 ## Discovery & Directories
 
