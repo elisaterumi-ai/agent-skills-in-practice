@@ -8,7 +8,8 @@ A curated collection of documentation, guides, and repositories about AI skills 
 - [Using Skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)  
 - [How to Create Custom Skills](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills)  
 - [Claude Skills Overview](https://claude.com/skills)  
-- [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)  
+- [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
+- [Agent Skills Overview](https://agentskills.io/home)
 
 ## Example Skill Repositories
 
@@ -17,7 +18,8 @@ A curated collection of documentation, guides, and repositories about AI skills 
 - [Addy Osmani — Agent Skills](https://github.com/addyosmani/agent-skills)  
 - [Social Media Skills](https://github.com/charlie947/social-media-skills)  
 - [Awesome Claude Skills (Full Listing)](https://chat2anyllm.github.io/awesome-claude-skills/FULL-SKILLS.html#complete-skills-listing)
-- [Skills.sh](https://skills.sh/)  
+- [Skills.sh](https://skills.sh/)
+- [Google Skills](https://github.com/google/skills/)  
 
 ## Discovery & Directories
 
