@@ -111,7 +111,7 @@ Classify each news item into one of these categories:
 Return the list in English using the following format:
 
 # Latest AI News
-
+```markdown
 ## 1. [News title](link)
 
 **Category:** Product launch  
@@ -131,7 +131,7 @@ Short paragraph explaining what happened, why it matters, and the potential impa
 **Date:** MM/DD/YYYY, if available
 
 Short paragraph explaining what happened, why it matters, and the potential impact.
-
+```
 # Error handling
 
 If any feed fails:
